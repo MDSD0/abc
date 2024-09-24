@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hehehehehe
+=======
+temeeee hehehe
+>>>>>>> c4bb275 (another commit)
